@@ -1,0 +1,3 @@
+# This is sample code for blog post!
+
+Post coming soon...
